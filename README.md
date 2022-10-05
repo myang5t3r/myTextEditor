@@ -52,7 +52,7 @@ Not applicable
 
 ## Questions
 
-For more information and questions please email me @ yangmatthew85@yahoo.com
+For more information and questions please email me @ yangmatthew85@gmail.com
 
 [GitHub: myang5t3r](https://github.com/myang5t3r)
 
