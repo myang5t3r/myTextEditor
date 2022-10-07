@@ -36,6 +36,8 @@ Launch app here: https://pure-crag-34548.herokuapp.com/
 
 Use text editor from live deploy.
 
+![Jate Text Editor](./client/src/images/Jate.PNG)
+
 ---
 
 ## Contributing
