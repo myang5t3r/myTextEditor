@@ -22,7 +22,7 @@
 
 ## Description
 
-This applications build an online text editor as a progressive web app (PWA). This application uses both frontend and backend techologies such as , express.js, node.js, webpack, babel, idb, and indexdb to store data straight fro the browser.
+This applications build an online text editor as a progressive web app (PWA). This application uses both frontend and backend technologies such as , express.js, node.js, webpack, babel, idb, and indexdb to store data straight fro the browser.
 
 ---
 
